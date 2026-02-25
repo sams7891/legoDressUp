@@ -278,14 +278,14 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: DraggableVisibilityManager, Assembly-CSharp
-        m_MethodName: ShowGroup
-        m_Mode: 3
+      - m_Target: {fileID: 1544359532}
+        m_TargetAssemblyTypeName: ButtonClickSoundFX, Assembly-CSharp
+        m_MethodName: PlaySound
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -836,7 +836,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 89, y: 169.83}
+  m_AnchoredPosition: {x: 89, y: 97}
   m_SizeDelta: {x: 396.3422, y: 339.6732}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &428419894
@@ -1804,14 +1804,14 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: DraggableVisibilityManager, Assembly-CSharp
-        m_MethodName: ShowGroup
-        m_Mode: 3
+      - m_Target: {fileID: 1544359532}
+        m_TargetAssemblyTypeName: ButtonClickSoundFX, Assembly-CSharp
+        m_MethodName: PlaySound
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -3573,10 +3573,10 @@ MonoBehaviour:
   onValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: DraggableVisibilityManager, Assembly-CSharp
-        m_MethodName: ShowGroup
-        m_Mode: 3
+      - m_Target: {fileID: 1544359532}
+        m_TargetAssemblyTypeName: ButtonClickSoundFX, Assembly-CSharp
+        m_MethodName: PlaySound
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
